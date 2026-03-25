@@ -1,0 +1,1 @@
+[[Pterostilbene]]이 [[Resveratrol]]보다 생체 이용률([[Bioavailability]])이 월등히 높은 이유를 약동학적으로 분석.

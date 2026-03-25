@@ -1,0 +1,2 @@
+- 세포 에너지가 충전되고 손상이 복구되는 순환 구조 설명.
+- **Scientific Evidence**: [[Zhang(2016)]], [[Sinclair(2013)]]
